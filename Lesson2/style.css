@@ -1,0 +1,26 @@
+h1{
+    color: darkmagenta;
+    text-align: center;
+
+}
+p{
+    color: rgb(127, 182, 255);
+   /* delaem stil  kursiv */
+    font-style: italic;
+}
+/* selektor po klasu (desc) */
+.desc{
+    font-size: 20px;
+    text-decoration: underline;
+    color: blue;
+}
+#heading{
+    color: brown;
+}
+.choco{
+    color: chocolate;
+}
+/* selector dlya vseh elementov li vnutri ol */
+ol>li{
+    font-weight:bolder;
+}
