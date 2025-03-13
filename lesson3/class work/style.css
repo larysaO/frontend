@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+    .button{
+    /* width: 80px;
+    height: 35px; */
+    background-color:  #778D45;
+    color: white;
+    /* margin: 10px; */
+    padding: 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.light-green{
+    background-color: lightgreen;
+
+}
+p:hover{
+    color: red;
+    text-align: center;
+    font-weight: bolder;
+
+}
+/* .a{
+    width: 250px;
+    height: 40px; */
+
+
