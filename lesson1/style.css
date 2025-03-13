@@ -1,0 +1,15 @@
+h1{
+    color: #580d73;
+    text-align: center;
+   
+    }
+    
+    .desc{
+        font-size: x-large;
+        text-decoration: underline;
+        color: #10062a;
+    }
+    ul>li{
+        font-weight: bolder;
+        text-align: left;
+    }
