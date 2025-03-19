@@ -1,3 +1,10 @@
+header{
+    background: #4DA0B0; 
+      background: -webkit-linear-gradient(to right, #D39D38, #4DA0B0); 
+      background: linear-gradient(to right, #D39D38, #4DA0B0); 
+      
+}
+
 h1{
     color: #580d73;
     text-align: center;
@@ -13,3 +20,4 @@ h1{
         font-weight: bolder;
         text-align: left;
     }
+
