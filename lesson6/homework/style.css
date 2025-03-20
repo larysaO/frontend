@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      
+}
+header {
+    width: 100%;
+    position: sticky;
+    top: 0px;
+    background: #5614B0;  
+    background: -webkit-linear-gradient(to right, #DBD65C, #5614B0); 
+    background: linear-gradient(to right, #DBD65C, #5614B0); 
+    
+    height: 80px;
+    padding: 0px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+    padding: 20px;
+    justify-content: center;
+}
+    .character-card {
+        border: 2px solid rgb(185, 19, 231);
+        padding: 10px 15px;
+}
+.character-card > img {
+    width: 100%;
+  }
+ 
+h2{
+    display: flex;
+   justify-content: center;
+}
