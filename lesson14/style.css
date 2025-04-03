@@ -1,0 +1,17 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+  }
+input{
+    background-color: beige;
+    padding: 5px;
+    margin: 8px;
+}
+button{
+    background: linear-gradient(to right,rgb(25, 164, 25), rgb(239, 24, 24), rgb(31, 31, 213));
+    padding: 5px;
+    color: white;
+}
+
+   
